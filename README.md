@@ -25,6 +25,8 @@ An operations management platform used by large companies.
 - Rewrote the customer care module as v2 for better performance and scale; it served about 50,000 daily active users
 - Built the internal system that lets each company customize its own version of the app
 
+![Contribution graph, last 12 months](profile-3d-contrib/profile-3d.svg)
+
 ## Contact
 
 duy211099@gmail.com

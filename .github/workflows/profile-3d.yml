@@ -19,6 +19,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
+      - name: Trim language chart and star/fork counters
+        run: python3 .github/scripts/trim_profile_3d.py profile-3d-contrib/profile-3d.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
