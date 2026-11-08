@@ -17,6 +17,14 @@ A mobile-first platform for home buyers and independent buyer's agents, built fr
 - Shared deal workspace: progress tracker, versioned search briefs, document center, email-in documents
 - Notifications and push, and a documented API for the mobile app
 
+## Enterprise operations platform · 2022–2024
+
+An operations management platform used by large companies.
+
+- Owned the communication and internal communication modules
+- Rewrote the customer care module as v2 for better performance and scale; it served about 50,000 daily active users
+- Built the internal system that lets each company customize its own version of the app
+
 ## Contact
 
 duy211099@gmail.com
