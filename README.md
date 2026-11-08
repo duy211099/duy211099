@@ -8,7 +8,7 @@ Software engineer. I build products end to end: data model, backend, web app, th
 - Live streaming and replays from court cameras, including a Rust video service that records LiveKit rooms without a headless browser, burns score overlays and ads into the stream, and encodes to HLS and RTMP, on GPU where available
 - Payments, notifications, LED scoreboard displays, and the API the mobile apps run on
 
-## Private Agent · 2026–present
+## Property-buying marketplace
 
 A mobile-first platform for home buyers and independent buyer's agents, built from the first commit.
 
